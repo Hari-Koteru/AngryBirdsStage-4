@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# AngryBirdsStage-4
+Create a slingshot effect in the Angry Birds game
